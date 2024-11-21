@@ -12,3 +12,5 @@ Monthly & Quarterly Trends: Sales progression over months and quarters.
 Power BI: For data visualization and advanced interactive reporting.
 Professional Design: Dark-themed interface for enhanced readability and focus.
 This dashboard is a comprehensive tool designed for business leaders and marketing teams to monitor performance, identify opportunities, and refine strategies effectively.
+
+https://github.com/user-attachments/assets/56ea9d74-f3ee-46f8-8c34-481afe5de06c
