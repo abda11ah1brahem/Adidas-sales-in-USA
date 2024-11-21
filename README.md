@@ -7,7 +7,8 @@ Sales Channels: Profit distribution across in-store, outlet, and online channels
 Product Analysis: Sales trends across various product categories, such as men's street footwear and women's apparel.
 Retailer Insights: Performance of major retailers like West Gear and Foot Locker.
 Monthly & Quarterly Trends: Sales progression over months and quarters.
-Tools & Techniques:
+
+# Tools & Techniques:
 Power BI: For data visualization and advanced interactive reporting.
 Professional Design: Dark-themed interface for enhanced readability and focus.
 This dashboard is a comprehensive tool designed for business leaders and marketing teams to monitor performance, identify opportunities, and refine strategies effectively.
